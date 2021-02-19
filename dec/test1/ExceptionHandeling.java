@@ -8,7 +8,7 @@ public class ExceptionHandeling {
 			
 		int i=0;
 		int j=10/i;
-		System.out.println("hiiiiiiiii");
+		System.out.println("hiiiiiiiii");// I'm Moksha
 		
 		}
 		catch(ArithmeticException e) {
